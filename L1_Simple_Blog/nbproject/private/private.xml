@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/article/ArticleDTO.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/error.jsp</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/GetArticleController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/LoginController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/comment/CommentDTO.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/admin.jsp</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/comment/CommentDAO.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/SearchArticleController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/article/ArticleDAO.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/article.jsp</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/RegisterController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/ApprovalController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/login.html</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/CommentController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/postArticle.jsp</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/DeleteController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/controller/MainController.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/account/AccountDAO.java</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/web/articleDetail.jsp</file>
+            <file>file:/E:/SE/Lab231%20JWeb/Lab%201/L1_Simple_Blog/src/java/sample/filters/AuthenFilter.java</file>
+        </group>
+    </open-files>
+</project-private>
